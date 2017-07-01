@@ -22,6 +22,7 @@ a {
 .logo {
 	float: left;
 	margin-right: 10px;
+	width: 76px;
 }
 
 h1 {
@@ -44,8 +45,34 @@ h1 {
 
 @media (max-width: 768px) { 
 
+	h1 {
+		margin-top: 5px;
+	}
+
+	.menuMobile {
+		margin-top: -56px;
+	}
+
 	.simbolo-titulo a {
 		margin-left: -45px;
 	}
 
+	.simbolo-titulo a {
+		width: 275px;
+	}
+
+	.logo {
+		width: 50px;
+		margin-right: 0px;
+	}
+
+	.thin {
+	font-weight: 100;
+	font-size: 20px;
+	}
+
+	.regular {
+		font-weight: 400;
+		font-size: 20px;
+	}
 }
