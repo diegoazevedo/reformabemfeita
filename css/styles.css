@@ -2,6 +2,26 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+	font-weight: 100;
+	font-size: 30px;
+}
+
+h2 {
+	font-weight: 500;
+	font-size: 18px;
+}
+
+h3 {
+	font-weight: 500;
+	font-size: 18px;
+}
+
+p {
+	font-weight: 400;
+	font-size: 16px;	
+}
+
 a {
 	color: black;
 }
@@ -15,14 +35,14 @@ a {
 	text-align: center;
 }
 
-.simbolo-titulo a {
-	width: 410px;
-}
-
 .logo {
-	float: left;
 	margin-right: 10px;
 	width: 76px;
+}
+
+.sem-espaco {
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 h1 {
@@ -46,7 +66,7 @@ h1 {
 @media (max-width: 768px) { 
 
 	h1 {
-		margin-top: 5px;
+		margin-top: 10px;
 	}
 
 	.menuMobile {
@@ -57,18 +77,14 @@ h1 {
 		margin-left: -45px;
 	}
 
-	.simbolo-titulo a {
-		width: 275px;
-	}
-
 	.logo {
-		width: 50px;
+		width: 45px;
 		margin-right: 0px;
 	}
 
 	.thin {
-	font-weight: 100;
-	font-size: 20px;
+		font-weight: 100;
+		font-size: 20px;
 	}
 
 	.regular {
