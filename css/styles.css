@@ -22,9 +22,16 @@ p {
 	font-size: 16px;	
 }
 
+footer {
+	font-weight: 400;
+	font-size: 12px;	
+}
+
 a {
 	color: black;
 }
+
+
 
 .principal {
 	width: 100%;
