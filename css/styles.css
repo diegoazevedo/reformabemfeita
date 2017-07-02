@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 16px;	
 }
 
@@ -30,8 +30,6 @@ footer {
 a {
 	color: black;
 }
-
-
 
 .principal {
 	width: 100%;
@@ -45,6 +43,10 @@ a {
 .logo {
 	margin-right: 10px;
 	width: 76px;
+}
+
+.logoRodape {
+	width: 45px;
 }
 
 .sem-espaco {
@@ -70,6 +72,32 @@ h1 {
 	margin-top: -73px;
 }
 
+.vcenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.menu{
+	color: #6FAC41 !important;
+}
+
+.dropdown-menu {
+	border-radius: 0;
+}
+
+.quemSomos {
+	background-color: #F8A72C;
+	color: #fff;
+}
+
+.maisProcurados {
+	background-color: #80C241;
+	color: #fff;
+}
+
+.last { margin-bottom: 0 !important; margin-right: 0 !important; }
+
 @media (max-width: 768px) { 
 
 	h1 {
@@ -88,6 +116,10 @@ h1 {
 		width: 45px;
 		margin-right: 0px;
 	}
+
+	.logoRodape {
+		width: 30px;
+	}	
 
 	.thin {
 		font-weight: 100;
