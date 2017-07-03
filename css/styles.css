@@ -86,14 +86,29 @@ h1 {
 	border-radius: 0;
 }
 
+.servicos {
+	background-color: #EEEDF2;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
 .quemSomos {
 	background-color: #F8A72C;
 	color: #fff;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .maisProcurados {
 	background-color: #80C241;
 	color: #fff;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.footer {
+	padding-top: 20px;
+	padding-bottom: 20px;	
 }
 
 .last { margin-bottom: 0 !important; margin-right: 0 !important; }
