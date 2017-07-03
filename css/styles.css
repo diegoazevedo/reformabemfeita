@@ -10,6 +10,7 @@ h1 {
 h2 {
 	font-weight: 500;
 	font-size: 18px;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -145,4 +146,21 @@ h1 {
 		font-weight: 400;
 		font-size: 20px;
 	}
+}
+
+/*============ SERVIÇOS============== */
+.bloco {
+	background-color: #fff;
+}
+
+.small-text {
+	font-weight: 300;
+	font-size: 14px;	
+}
+
+.thumb-title {
+	padding-top: 30px;
+	padding-bottom: 0px;
+	color: #40590A;
+	text-align: center;
 }
