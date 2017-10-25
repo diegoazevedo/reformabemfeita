@@ -31,7 +31,7 @@
 			<a class="navbar-brand" href="#">
 				<div class="row">
 					<div class="col sem-espaco">
-						<img src="img/logo.svg" class="d-inline-block align-middle img-fluid logo">
+						<img src="img/reforma-bem-feita-simbolo.svg" class="d-inline-block align-middle img-fluid logo">
 					</div>
 					<div class="col sem-espaco">
 						<h1><span class="thin">REFORMA</span><span class="regular">BEMFEITA</span></h1>
@@ -151,13 +151,30 @@
 	<div class="container-fluid contato">
 		<div class="container">
 			<h2 class="text-center">Contato</h2>
-			<p>Escreva sua ideia de reforma ou o problema que está enfretando em sua casa, nós estraremos em contato em até 24hrs</p>
+			<p>Escreva sua ideia de reforma ou o problema que está enfretando em sua casa, nós entraremos em contato em até 24hrs</p>
 
-			<form method="POST" action="http://formspree.io/diegooliveira_80@hotmail.com">
+			<!--<form method="POST" action="http://formspree.io/diegooliveira_80@hotmail.com">
 				<input type="text" name="nome" placeholder="Digite seu nome">
 				<input type="text" name="telefone" placeholder="Digite seu telefone ou e-mail">
 				<textarea name="mensagem" placeholder="Descreva o que precisa fazer na sua casa ou empresa"></textarea>
 				<button type="submit">Enviar</button>
+			</form>-->
+
+			<form method="POST" action="http://formspree.io/diegooliveira_80@hotmail.com">
+				<div class="form-group">
+					<label for="txtNome">Seu nome</label>
+					<input type="text" name="nome" class="form-control" id="txtNome" placeholder="Digite aqui seu nome">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputEmail1">Telefone ou e-mail</label>
+					<input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Digite aqui seu telefone ou e-mail">
+					<small id="emailHelp" class="form-text text-muted">Nós nunca iremos compartilhar seus dados com ninguém.</small>
+				</div>
+				<div class="form-group">
+					<label for="exampleTextarea">Descreva o que precisa fazer na sua casa ou empresa</label>
+					<textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+				</div>
+				<button type="submit" class="btn btn-primary">Enviar</button>
 			</form>
 		</div>
 	</div>
