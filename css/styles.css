@@ -80,7 +80,7 @@ h1 {
 }
 
 .menu{
-	color: #6FAC41 !important;
+	color: #1a8abb !important;
 }
 
 .dropdown-menu {
@@ -94,14 +94,21 @@ h1 {
 }
 
 .quemSomos {
-	background-color: #F8A72C;
+	background-color: #36aee3;
+	color: #fff;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.contato {
+	background-color: #ffffff;
 	color: #fff;
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
 
 .maisProcurados {
-	background-color: #80C241;
+	background-color: #14698e;
 	color: #fff;
 	padding-top: 100px;
 	padding-bottom: 100px;
