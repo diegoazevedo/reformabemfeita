@@ -120,6 +120,8 @@ h1 {
 
 .last { margin-bottom: 0 !important; margin-right: 0 !important; }
 
+.center {text-align: center;}
+
 @media (max-width: 768px) { 
 
 	h1 {
