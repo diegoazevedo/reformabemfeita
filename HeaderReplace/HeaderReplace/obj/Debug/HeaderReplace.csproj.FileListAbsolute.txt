@@ -1,7 +1,0 @@
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\bin\Debug\HeaderReplace.exe.config
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\bin\Debug\HeaderReplace.exe
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\bin\Debug\HeaderReplace.pdb
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\obj\Debug\HeaderReplace.csprojResolveAssemblyReference.cache
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\obj\Debug\HeaderReplace.csproj.CoreCompileInputs.cache
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\obj\Debug\HeaderReplace.exe
-C:\reformabemfeita\reformabemfeita\HeaderReplace\HeaderReplace\obj\Debug\HeaderReplace.pdb
